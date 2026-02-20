@@ -22,6 +22,10 @@ STUDENT OF BHARATH COLLEGE
 <a href="https://www.instagram.com/its_me_tokyo__7?igsh=OG8wbXg3bW82eTNn" target="_blank">
   <img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
+<a href="mailto:deepakviswa.v@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
 
 
 
