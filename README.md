@@ -50,8 +50,6 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DEEPAK-V7/DEEPAK-V7/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DEEPAK-V7/DEEPAK-V7/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DEEPAK-V7/DEEPAK-V7/output/pacman-contribution-graph.svg">
-</picture>
-
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/ASUS-TUF_Gaming_A15-1A1A1A?style=for-the-badge"/>
 <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX_1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
