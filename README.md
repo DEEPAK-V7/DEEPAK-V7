@@ -49,6 +49,21 @@
 
 ###
 
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DEEPAK-V7/DEEPAK-V7/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DEEPAK-V7/DEEPAK-V7/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DEEPAK-V7/DEEPAK-V7/output/pacman-contribution-graph.svg">
+</picture>
+
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/ASUS-TUF_Gaming_A15-1A1A1A?style=for-the-badge"/>
 <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX_1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
