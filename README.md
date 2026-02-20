@@ -9,8 +9,8 @@ STUDENT OF BHARATH COLLEGE
 - ⚡ 
 - Social Presence
 <br />
-<a href="https://www.linkedin.com/in/deepak-v7" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ItsTokyo__7)
+
 </a>
 
 ) <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](
@@ -18,9 +18,7 @@ STUDENT OF BHARATH COLLEGE
 - ![YouTube Channel Views]()
 - ![YouTube Channel Subscribers]()
 - <br />
-<a href="https://www.linkedin.com/in/deepak-v7" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
+
 
 
 ### I code in
