@@ -16,6 +16,13 @@ STUDENT OF BHARATH COLLEGE
 
 
 </a>
+<a href="https://www.linkedin.com/in/deepak-v7" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/its_me_tokyo__7?igsh=OG8wbXg3bW82eTNn" target="_blank">
+  <img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
 
 ) <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](
 ) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />]()
